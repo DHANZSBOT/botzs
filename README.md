@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/xh1jJ9V/c04a33a54164.png" alt="BaseSelfBot" width="300" />
 
-# Base-SelfBot
+# botzs
 
 >
 >
@@ -35,8 +35,8 @@
 # Instalasi
 ## Clone Repo & Instalasi dependencies
 ```bash
-> git clone https://github.com/zennn08/BaseSelfBot.git
-> cd BaseSelfBot
+> git clone https://github.com/DHANZSBOT/botzs.git
+> cd botzs
 > npm install
 > node xinz
 ```
@@ -47,7 +47,7 @@
 > pkg install nodejs
 > pkg install git
 > pkg install bash
-> git clone https://github.com/zennn08/BaseSelfBot.git
+> git clone https://github.com/DHANZSBOT/botzs.git
 > cd BaseSelfBot
 > bash install.sh
 > npm install
@@ -55,10 +55,10 @@
 ```
 
 ## Edit file
-- Change menu [disini](https://github.com/zennn08/BaseSelfBot/blob/master/xinz.js#95)
-- Change prefix [disini](https://github.com/zennn08/BaseSelfBot/blob/master/xinz.js#35)
-- Change faketeks [disini](https://github.com/zennn08/BaseSelfBot/blob/master/xinz.js#33)
-- Change gambar [disini](https://github.com/zennn08/BaseSelfBot/blob/master/media/aqul.jpeg) di replace gambar nya dan jangan diubah namanya
+- Change menu [disini](https://github.com/DHANZSBOT/botzs/blob/master/xinz.js#95)
+- Change prefix [disini](https://github.com/DHANZSBOT/botzs/blob/master/xinz.js#35)
+- Change faketeks [disini](https://github.com/DHANZSBOT/botzs/blob/master/xinz.js#33)
+- Change gambar [disini](https://github.com/DHANZSBOT/botzs/blob/master/media/aqul.jpeg) di replace gambar nya dan jangan diubah namanya
 - Bisa juga ganti biar jadi forwarded message
 ```js
 aqul.sendFakeStatus(from, teks, fake)
